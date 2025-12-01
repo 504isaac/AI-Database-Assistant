@@ -80,7 +80,7 @@ On macOS/Linux:
 
 The application should now be running at http://localhost:8501.
 
-#📂 Project Structure
+📂 Project Structure
 
   ai-database-assistant/
   ├── app.py                # Main application file
@@ -91,6 +91,6 @@ The application should now be running at http://localhost:8501.
   └── *.db                  # SQLite database files
 
 
-#🤝 Contributing
+🤝 Contributing
 
   Contributions are welcome! Please feel free to submit a Pull Request.
