@@ -15,7 +15,7 @@ A hybrid AI assistant built with Streamlit, LangChain, and Groq. Features text-t
 
   Dynamic Forms: Automatically generates UI forms for inserting data into any table.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: Streamlit
 
@@ -25,7 +25,7 @@ Frontend: Streamlit
 
 Language: Python 3.10+
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
   Follow these steps to set up the project locally.
 
@@ -80,7 +80,7 @@ On macOS/Linux:
 
 The application should now be running at http://localhost:8501.
 
-📂 Project Structure
+# 📂 Project Structure
 
   ai-database-assistant/
   ├── app.py                # Main application file
@@ -91,6 +91,6 @@ The application should now be running at http://localhost:8501.
   └── *.db                  # SQLite database files
 
 
-🤝 Contributing
+# 🤝 Contributing
 
   Contributions are welcome! Please feel free to submit a Pull Request.
