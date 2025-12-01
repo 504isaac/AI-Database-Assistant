@@ -1,0 +1,13 @@
+streamlit
+pandas
+python-dotenv
+sqlalchemy
+langchain
+langchain-groq
+langchain-google-genai
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+requests
